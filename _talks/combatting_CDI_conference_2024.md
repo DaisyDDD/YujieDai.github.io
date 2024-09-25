@@ -8,7 +8,6 @@ date: 2024-02-27
 location: "All Nations Centre, Cardiff, England, UK"
 ---
 
-Characterising Clostridiodes Difficile Infections in the Southwest of England with the BNSSG Systemwide Dataset
 
 Our work is actively progressing in curation, analytics, and developing visualisations for individual patient and population levels. We present a variety of descriptive statistics, visualisations, and other preliminary analyses of a comprehensive dataset.
 
