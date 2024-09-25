@@ -1,12 +1,12 @@
 ---
-title: "Statistical Computing and Empirical Methods"
+title: "Advanced Financial Technology"
 collection: teaching
 type: "Teaching Assistant, Master course"
 permalink: /teaching/SCEM
 venue: "University of Bristol, School of Engineering Mathematics and Technology"
-date: 2023-09-01
+date: 2024-02-01
 location: "Bristol, UK"
 ---
 
-The aim of this unit is to provide students with a broad introduction to the principles of rigorous design of experiments, and to statistical analysis of empirical data using the free 'R' programming language.
+This unit aims to provide students with the practical skills to perform advanced data driven analysis of financial markets typically used by investment banks and hedge funds for trading and risk management.
 
