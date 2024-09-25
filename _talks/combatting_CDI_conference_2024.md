@@ -1,7 +1,7 @@
 ---
 title: "Characterising CDI in the Southwest of England with the BNSSG Systemwide Dataset"
 collection: talks
-type: "Conference poster presentation"
+type: "Poster Presentation"
 permalink: /talks/combatting_CDI_conference_2024
 venue: "Combatting CDI Conference 2024 "
 date: 2024-02-27
