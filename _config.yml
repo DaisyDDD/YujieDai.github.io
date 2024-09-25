@@ -12,7 +12,7 @@ title                    : "Yujie Dai"
 title_separator          : "-"
 name                     : &name "Yujie Dai"
 description              : &description "personal description"
-url                      : https://daisyddd.github.io/YujieDai.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://daisyddd.github.io/YujieDai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DaisyDDD/YujieDai.github.io"
 
