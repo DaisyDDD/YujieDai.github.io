@@ -1,5 +1,5 @@
 ---
-title: "	Characterising Clostridiodes Difficile Infections in the Southwest of England with the BNSSG Systemwide Dataset"
+title: "	Characterising CDI in the Southwest of England with the BNSSG Systemwide Dataset"
 collection: talks
 type: "Conference poster presentation"
 permalink: /talks/combatting_CDI_conference_2024
