@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hi! I am a PhD student in [Digital Health and Care CDT](https://www.bristol.ac.uk/cdt/digital-health/) at the university of Bristol, UK funded by the Engineering and Physical Sciences Research Council (EPSRC). I work part-time at the [Jean Golding Institute](https://www.bristol.ac.uk/golding/), UK. My research interests lie in applying machine learning and AI on large-scale health datasets to improve disease diagnosis and treatments.
+Hi! I am a PhD student in [Digital Health and Care CDT](https://www.bristol.ac.uk/cdt/digital-health/) at the university of Bristol, UK funded by the Engineering and Physical Sciences Research Council (EPSRC). I work part-time as a Data Scientist at the [Jean Golding Institute](https://www.bristol.ac.uk/golding/), UK. My research interests lie in applying machine learning and AI on large-scale health datasets to improve disease diagnosis and treatments.
 
 Under the supervision of [Prof Andrew Dowsey](https://research-information.bris.ac.uk/en/persons/andrew-dowsey), [Prof Raúl Santos-Rodríguez](https://www.raulsantosrodriguez.com/), and [Dr Brian Sullivan](https://scholar.google.com/citations?user=ea-0yoMAAAAJ&hl=en), My PhD project, collaborating with the BNSSG Integrated Care Board (ICB) and UHBW NHS Foundation Trust, focuses on infectious disease detection and antibiotic resistance prediction with cutting-edge machine learning and explainable-AI (XAI) based on real-world big data sets, aimed at boosting population health. 
 
