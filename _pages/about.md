@@ -26,8 +26,8 @@ My name in chinese is 雨洁, which consists of two characters 雨 (yǔ) and 洁
 
 A Chinese Poem Related to My Name
 
-#### 《春夜喜雨》 (Spring Night Delighting in Rain) 
-***杜甫 (Du Fu)***  
+《春夜喜雨》 (Spring Night Delighting in Rain) 
+*杜甫 (Du Fu)*
 好雨知时节，当春乃发生。<br>
 随风潜入夜，润物细无声。<br>
 
