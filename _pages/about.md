@@ -24,15 +24,14 @@ My name in chinese is 雨洁, which consists of two characters 雨 (yǔ) and 洁
 * Yǔ (雨) sounds like "yoo" but with a slight "ee" sound at the end.
 * Jié (洁) sounds like "jyeh," similar to the "je" in "jet," but with a softer ending.
 
-### A Chinese Poem Related to My Name 
+A Chinese Poem Related to My Name
 
 #### 《春夜喜雨》 (Spring Night Delighting in Rain) 
-**杜甫 (Du Fu)**  
-
+***杜甫 (Du Fu)***  
 好雨知时节，当春乃发生。<br>
 随风潜入夜，润物细无声。<br>
 
-**English Translation (by Witter Bynner):**  
+English Translation (by Witter Bynner):  
 *"Good rain knows its season;  
 When spring arrives, it brings new life.  
 With wind, it slips into the night;  
