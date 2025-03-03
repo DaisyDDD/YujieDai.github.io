@@ -21,7 +21,8 @@ I am always eager to contribute to the advancement of digital health by leveragi
 
 My name
 ======
-My name in chinese is 雨洁, which consists of two characters 雨 (yǔ) and 洁 (jié).雨(yǔ) means "rain" in Chinese and 洁(jié) means "pure". 
+My name in chinese is 雨洁, which consists of two characters 雨 (yǔ) and 洁 (jié). 雨 (yǔ) means "rain" in Chinese and 洁 (jié) means "pure". 
+
 Pronunciation:
 * Yǔ (雨) sounds like "yoo" but with a slight "ee" sound at the end.
 * Jié (洁) sounds like "jyeh," similar to the "je" in "jet," but with a softer ending.
