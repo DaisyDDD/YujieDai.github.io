@@ -18,7 +18,6 @@ In 2022, I completed my MSc in Artificial Intelligence with Distinction (First C
 I am always eager to contribute to the advancement of digital health by leveraging AI to solve real-world healthcare challenges and improve patient health outcomes on a global scale.
 
 ## My Name
-======
 My name in chinese is 雨洁, which consists of two characters 雨 (yǔ) and 洁 (jié). 雨 (yǔ) means "rain" in Chinese and 洁 (jié) means "pure". 
 
 ### Pronunciation:
