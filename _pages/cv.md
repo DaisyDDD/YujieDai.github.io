@@ -9,5 +9,5 @@ redirect_from:
 
 
 
-[View CV](https://github.com/DaisyDDD/YujieDai.github.io/blob/master/files/CV-Yujie%2BDai-latest.pdf)
+[View my CV](https://daisyddd.github.io/YujieDai.github.io/files/CV-Yujie+Dai-latest.pdf)
 
