@@ -17,20 +17,24 @@ In 2022, I completed my MSc in Artificial Intelligence with Distinction (First C
 
 I am always eager to contribute to the advancement of digital health by leveraging AI to solve real-world healthcare challenges and improve patient health outcomes on a global scale.
 
-My name
+## My Name
 ======
 My name in chinese is 雨洁, which consists of two characters 雨 (yǔ) and 洁 (jié). 雨 (yǔ) means "rain" in Chinese and 洁 (jié) means "pure". 
 
-Pronunciation:
+### Pronunciation:
 * Yǔ (雨) sounds like "yoo" but with a slight "ee" sound at the end.
 * Jié (洁) sounds like "jyeh," similar to the "je" in "jet," but with a softer ending.
 
-A chinese poem by Du Fu related to my name:<br><br>
-《春夜喜雨》<br>
+### A Chinese Poem Related to My Name 
+
+#### 《春夜喜雨》 (Spring Night Delighting in Rain) 
+**杜甫 (Du Fu)**  
+
 好雨知时节，当春乃发生。<br>
 随风潜入夜，润物细无声。<br>
 
-"Spring Night Delighting in Rain"<br>
-<em>"Good rain knows its season; When spring arrives, it brings new life.<br>
-With wind, it slips into the night; Nourishing all things, soft and silent."</em><br>
-                                    -- <em>Translation by Witter Bynner</em>
+**English Translation (by Witter Bynner):**  
+*"Good rain knows its season;  
+When spring arrives, it brings new life.  
+With wind, it slips into the night;  
+Nourishing all things, soft and silent."*  
