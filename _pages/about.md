@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
+
 ======
 Hi! I am a PhD student in [Digital Health and Care CDT](https://www.bristol.ac.uk/cdt/digital-health/) at the university of Bristol, UK funded by the Engineering and Physical Sciences Research Council (EPSRC). I work as a Data Scientist at the [Jean Golding Institute](https://www.bristol.ac.uk/golding/), UK. My research interests lie in applying machine learning and AI on large-scale health datasets to improve disease diagnosis and treatments.
 
