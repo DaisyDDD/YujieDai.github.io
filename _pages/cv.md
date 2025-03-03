@@ -12,5 +12,5 @@ redirect_from:
 Education
 ======
 
-[View CV]([https://arxiv.org/abs/2411.17645](https://github.com/DaisyDDD/YujieDai.github.io/blob/master/files/CV-Yujie%2BDai-latest.pdf))
+[View CV](https://github.com/DaisyDDD/YujieDai.github.io/blob/master/files/CV-Yujie%2BDai-latest.pdf)
 
