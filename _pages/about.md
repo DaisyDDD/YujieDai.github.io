@@ -25,9 +25,10 @@ Pronunciation:
 * Yǔ (雨) sounds like "yoo" but with a slight "ee" sound at the end.
 * Jié (洁) sounds like "jyeh," similar to the "je" in "jet," but with a softer ending.
 
-A chinese poem by Du Fu related to my name:<br>
+A chinese poem by Du Fu related to my name:<br><br>
 《春夜喜雨》----"Spring Night Delighting in Rain"<br>
 好雨知时节，当春乃发生。<br>
 随风潜入夜，润物细无声。<br>
 <em>Good rain knows its season; When spring arrives, it brings new life.<br>
-With wind, it slips into the night; Nourishing all things, soft and silent.</em>
+With wind, it slips into the night; Nourishing all things, soft and silent.</em><br>
+                                    -- <em>Translation by Witter Bynner</em>
