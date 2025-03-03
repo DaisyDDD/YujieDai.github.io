@@ -26,7 +26,7 @@ Pronunciation:
 * Jié (洁) sounds like "jyeh," similar to the "je" in "jet," but with a softer ending.
 
 A chinese poem by Du Fu related to my name:<br><br>
-《春夜喜雨》
+《春夜喜雨》<br>
 好雨知时节，当春乃发生。<br>
 随风潜入夜，润物细无声。<br>
 
