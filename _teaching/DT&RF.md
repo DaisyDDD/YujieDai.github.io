@@ -2,7 +2,6 @@
 title: "Classification with scikit-learn: Decision Trees and Random Forests"
 collection: teaching
 type: "Training"
-permalink: /teaching/DT&RF
 venue: "Online"
 date: 2025-05-06
 location: "online"
