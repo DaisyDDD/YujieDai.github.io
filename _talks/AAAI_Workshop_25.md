@@ -3,7 +3,7 @@ title: "Explainable AI for Classifying UTI Risk Groups Using a Real-World Linked
 collection: talks
 type: "Presentation"
 permalink: /talks/AAAI_Workshop_25
-venue: "The 9th International Workshop on ​Health Intelligence, AAAI"
+venue: "The 9th International Workshop on ​Health Intelligence, The AAAI Conference"
 date: 2025-03-04
 location: "Philadelphia, US"
 ---
