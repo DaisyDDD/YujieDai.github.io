@@ -2,9 +2,9 @@
 title: "Classification with scikit-learn: Decision Trees and Random Forests"
 collection: teaching
 type: "Training"
-venue: "Online"
+venue: "Jean Golding Institute"
 date: 2025-05-06
-location: "online"
+location: "Online"
 ---
 
 In this lunch and learn talk, Yujie Dai demonstrates how to build and interpret classification models with Python and scikit-learn. This talk covers the fundamentals of decision trees and random forest models — an ensemble technique that combines multiple decision trees trained on random subsets of data.
