@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in [Digital Health and Care CDT](https://www.bristol.ac.uk/cdt/digital-health/) at the university of Bristol, UK, funded by the Engineering and Physical Sciences Research Council (EPSRC). I currently work as a Data Scientist at the [Jean Golding Institute](https://www.bristol.ac.uk/golding/), UK, where I contribute to diverse research projects and support researchers with data analysis needs. 
+I am a PhD candidate in [Digital Health and Care CDT](https://www.bristol.ac.uk/cdt/digital-health/) at the university of Bristol, UK, funded by the Engineering and Physical Sciences Research Council (EPSRC). I worked as a Data Scientist at the [Jean Golding Institute](https://www.bristol.ac.uk/golding/), UK, where I contributed to diverse research projects and support researchers with data analysis needs. 
 
 My research interests focus on infectious diseases, particularly Urinary Tract Infections (UTIs) and Antibiotic Resistance / Antimicrobial Resistance (AMR). My goal is to understand who is affected by these infections, why they occur, and how best to prevent, treat, and monitor them. Additionally, I develop artificial intelligence tools to assist in diagnosing and treating patients in both primary and secondary care settings, with the broader aim of improving population health. I work extensively with de-identified healthcare records and have strong expertise in programming (Python, R, and Java) and medical data analysis.
 
